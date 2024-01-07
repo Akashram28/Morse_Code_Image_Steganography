@@ -24,6 +24,7 @@ This Python application enables image steganography using Morse Code. It allows 
 1. **Run the Application:**
     - Run the Python file `stego_morse.py`:
         ```bash
+        cd Stego_Morse
         python stego_morse.py
         ```
 
